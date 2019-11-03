@@ -1,8 +1,8 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/02/17/neurons.jpg"
 layout: landing-page
-heading: APHE
+heading: Academy of Public Health Entomology
 partners: []
 services:
 - description: Performing collaborative research and providing services to support
@@ -13,13 +13,13 @@ services:
     entomology.
   heading: Research
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Academy of Public Health Entomology
+sub_heading: ''
 textline: APHE - Academy of Public Health Entomology
 hero_button:
   text: Learn more
   href: "/about"
 show_news: true
-show_staff: true
+show_staff: false
 menu:
   navigation:
     identifier: _index
