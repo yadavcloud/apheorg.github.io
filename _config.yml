@@ -22,6 +22,16 @@ collections:
   projects:
     output: true
     permalink: "/projects/:path/"
+menus:
+  navigation:
+    - url: /about
+      title: About
+    - url: /posts
+      title: Posts
+    - url: /projects
+      title: Projects
+    - url: /contact
+      title: Contact
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
