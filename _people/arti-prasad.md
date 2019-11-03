@@ -11,4 +11,4 @@ linkedin: ''
 layout: person
 
 ---
-Dr Arti Prasad, HOD, Department of Zoology, Mohanlal Sukhadia University.
+**Dr Arti Prasad**, HOD, Department of Zoology, Mohanlal Sukhadia University.
