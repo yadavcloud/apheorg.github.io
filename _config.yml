@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Jekyll demo for Forestry CMS
+title: Academy of Public Health Entomology
+short_title: APHE
+description: Official APHE website
 baseurl:
 permalink: "/:path/"
 defaults:
