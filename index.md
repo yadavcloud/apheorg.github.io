@@ -10,8 +10,8 @@ services:
   heading: Health
   icon: "/uploads/2017/11/13/health.png"
 - description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
+    entomology.
+  heading: Research
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Academy of Public Health Entomology
 textline: APHE - Academy of Public Health Entomology
