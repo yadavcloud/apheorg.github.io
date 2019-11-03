@@ -4,7 +4,7 @@ date: '2017-11-14T10:54:31.000+00:00'
 role:
 - staff
 thumbnail: "/uploads/2019/11/03/rsy.jpg"
-sub_heading: President
+sub_heading: Member
 email: ''
 linkedin: ''
 layout: person
