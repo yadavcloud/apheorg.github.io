@@ -14,7 +14,7 @@ menu:
     weight: 3
   navigation:
     identifier: _about
-    weight: 4
+    weight: 2
 
 ---
 The Academy of Public Health Entomology specializes in innovative public health entomology research. We are interested in advancing research in areas that are pressing and relevant to public health and entomology. We are currently engaged in a variety of ongoing projects within the areas of public health, data analysis, knowledge translation, and entomology.
