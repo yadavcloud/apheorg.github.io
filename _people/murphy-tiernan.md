@@ -1,18 +1,14 @@
 ---
-title: Murphy Tiernan
-date: 2017-11-14 10:47:11 +0000
+title: Dr Arti Prasad
+date: '2017-11-14T10:47:11.000+00:00'
 role:
 - advisor
 - staff
-thumbnail: "/uploads/2017/11/14/andrew-robles-300868.jpg"
+thumbnail: "/uploads/2019/11/03/artip.jpg"
 sub_heading: Professor
-email: murphy@belkirkcollege.com
+email: aritmlsu@yahoo.com
 linkedin: ''
-layout: 'person'
+layout: person
+
 ---
-
-Doctor Murphy Tiernan joined Belkirk in 2015 as a Professor.
-
-He received his Ph.D in Civil Engineering from Stanford in 2003, and also holds a master's degree in Mechanical Engineering.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Dr Arti Prasad, 
