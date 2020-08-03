@@ -1,5 +1,5 @@
 ---
-title: Home
+title: APHE
 banner_image: "/uploads/2018/02/17/bridge.jpg"
 layout: landing-page
 heading: Academy of Public Health Entomology
